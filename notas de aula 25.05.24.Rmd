@@ -1,0 +1,14 @@
+---
+title: "notas de aula"
+output: html_document
+date: "2024-05-25"
+--- 
+
+# notas de aula 
+
+## 5 i's da extenção 
+
+
+interação dialogica 
+interdiciplinariedade
+indissociabilidade
