@@ -12,3 +12,6 @@ date: "2024-05-25"
 interação dialogica 
 interdiciplinariedade
 indissociabilidade
+
+
+##git hub
